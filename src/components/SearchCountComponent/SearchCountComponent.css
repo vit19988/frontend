@@ -1,0 +1,7 @@
+#search-count-panel {
+    margin: 5px 25px;
+
+    @media (max-width: 768px) {
+        margin: auto;
+    }
+}

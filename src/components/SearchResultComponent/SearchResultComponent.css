@@ -1,0 +1,9 @@
+.small-table-col,
+.small-table-header {
+    width: 25%;
+}
+
+.small-table-header,
+.fw-bold {
+    font-weight: bold !important;
+}
